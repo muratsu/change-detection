@@ -1,0 +1,189 @@
+<div class="sqs-block-content"><div class="menu-wrapper menu-style-simple">
+
+
+
+  
+
+  <div class="menus ">
+  
+    <input checked="checked" class="menu-select-button" id="menu-select-1-dbe36dd7-1be4-4c9c-a4b3-9b38d972652b" type="radio" name="menu-selector-dbe36dd7-1be4-4c9c-a4b3-9b38d972652b" onchange="applyActiveStyle(&apos;1-dbe36dd7-1be4-4c9c-a4b3-9b38d972652b&apos;)">
+    <div class="menu menu-1-dbe36dd7-1be4-4c9c-a4b3-9b38d972652b ">
+
+      
+
+      
+      <div class="menu-section">
+
+        
+
+        <div class="menu-items">
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Uke 20</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Skinkeplanke med sellerir&#xF8;mmegr&#xF8;t og brunet sm&#xF8;r</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Friert arepas med largo og rognkjeksrogn</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">(S) Roastbeef med remulade og ruccola</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">(S) Asparges med chillihollandaise og bokhvete</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Tempura kamskjell med sesam &amp; k&#xE5;l salat</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">(S) Bakt lysing med prim&#xF8;rer og hvitvinssaus</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">(S) Potet med gremulata</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Norske g&#xE5;rdsoster med knekkebr&#xF8;d og kompott</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">(S) Vaniljeis med toffie og salte mandler</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Kr&#xF8;sus meny: 650,- / (S) Smalhans meny: 450,-</div>
+              
+
+              
+
+              
+
+            </div>
+          
+            <div class="menu-item">
+              
+
+              <div class="menu-item-title">Med forbehold!</div>
+              
+
+              
+
+              
+
+            </div>
+          
+        </div>
+
+      </div>
+      
+
+    </div>
+  
+  </div>
+
+
+
+</div> <!-- END .menu-wrapper -->
+
+<script>
+  function applyActiveStyle(inputId) {
+    if (document.getElementById('menu-select-' + inputId).checked) {
+      var labels = document.querySelectorAll('.menu-select-labels');
+      for (var i=0; i < labels.length; i++) {
+        labels[i].classList.remove('menu-select-labels--active');
+      }
+      document.getElementById('menu-select-label-' + inputId).classList.add('menu-select-labels--active');
+    }
+  }
+</script>
+</div>

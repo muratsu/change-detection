@@ -1,0 +1,127 @@
+
+                
+
+<div class="row">
+	<div class="large-12 columns">
+		<div class="action-bar">
+		    
+
+<nav class="breadcrumb" role="navigation">
+    <h2 id="breadcrumbslabel" class="breadcrumb-label visuallyhidden">Du er her:</h2>
+    <ul class="no-bullet" aria-labelledby="breadcrumbslabel">
+        <li class="sectional breadcrumb-label">Du er her:</li>
+        <li>
+            <a href="/no" id="ctl00_ctl00_ActionBar_BreadCrumbs_anchorFrontPage" class="novisit">
+                Forsiden
+            </a>
+        </li>
+        <li><a href="/no/Saker-og-publikasjoner/">Saker og publikasjoner</a></li><li class="sectional">Sp&#xF8;rsm&#xE5;l: </li><li><a href="/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/">Skriftlige sp&#xF8;rsm&#xE5;l og svar</a></li><li class="current">Skriftlig sp&#xF8;rsm&#xE5;l</li>
+    </ul>
+</nav>
+            <ul class="page-actions no-bullet">
+                <li class="social-sharing-container">
+                    
+
+<a href="#social-sharing" role="button" id="social-sharing-label" class="social-toggle icon icon-sharing icon-right icon-small-right" aria-controls="social-sharing" aria-expanded="false" data-social-btn="true">Del</a>
+<ul id="social-sharing" class="social-sharing-list level-2" aria-labelledby="social-sharing-label" data-social-selector="true">
+
+    <li><a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.stortinget.no%2fno%2fSaker-og-publikasjoner%2fSporsmal%2fSkriftlige-sporsmal-og-svar%2fSkriftlig-sporsmal%2f%3fqid%3d74380" class="facebook" data-some-share-link="true" target="_blank">Facebook</a></li>
+    <li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.stortinget.no%2fno%2fSaker-og-publikasjoner%2fSporsmal%2fSkriftlige-sporsmal-og-svar%2fSkriftlig-sporsmal%2f%3fqid%3d74380" class="twitter" data-some-share-link="true" target="_blank">Twitter</a></li>
+    <li><a href="mailto:?subject=Tips%20fra%20stortinget.no&amp;body=https%3a%2f%2fwww.stortinget.no%2fno%2fSaker-og-publikasjoner%2fSporsmal%2fSkriftlige-sporsmal-og-svar%2fSkriftlig-sporsmal%2f%3fqid%3d74380" data-some-share-link="true" class="email">Epost</a></li>
+</ul>
+
+                </li>
+				<li>
+				    
+
+<script type="text/javascript">
+function printPage()
+{
+    window.print();
+}
+</script><a class="icon icon-print icon-right icon-small-right" href="javascript:printPage()">Skriv ut</a>
+				</li>
+				<li>
+                    
+				    
+
+<a class="icon icon-report icon-right icon-small-right" data-report-error-link="true" href="/no/Systemsider/Feilmeldingsskjema/?qid=74380&amp;pt=164">Meld feil</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+                
+                
+                
+                
+    
+    
+<div class="row">
+	<div class="large-8 large-offset-2 columns">
+        <div class="article-title">
+		    <h1>Skriftlig sp&#xF8;rsm&#xE5;l fra Sigbj&#xF8;rn Gjelsvik (Sp) til justis-, beredskaps- og innvandringsministeren</h1>
+        </div>
+
+        <div class="article-qa-info">
+            
+
+            <p>
+                Dokument nr. 15:542 (2018-2019)<br>
+                    
+                    Innlevert: 07.12.2018<br>
+                Sendt: 07.12.2018<br>
+                
+                
+                
+                
+                Besvart: 13.12.2018 av justis-, beredskaps- og innvandringsminister Tor Mikkel Wara<br>
+            </p>
+        </div>
+        
+        <div class="article-content question-answer">
+            <div class="row">
+                <div class="large-2 medium-2 columns">
+                    <div class="qa-image">
+                        <img id="ctl00_ctl00_MainRegion_MainRegion_QuestioneerImage" src="/Personimages/PersonImages_Small/SIGJE_lite.jpg" alt="Sigbj&#xF8;rn Gjelsvik (Sp)">
+                    </div>
+                </div>
+                <div class="large-10 medium-10 columns">
+                    <h3>
+                        Sp&#xF8;rsm&#xE5;l
+                    </h3>
+                    <p>Sigbj&#xF8;rn Gjelsvik (Sp): USA og flere Nato-land velger &#xE5; unng&#xE5; &#xE5; bruke det kinesiske foretaket Huawei til samfunnskritisk infrastruktur. S&#xE5; seint som i dag ble det kjent av Japan allerede fra mandag av kan komme til i praksis &#xE5; forby innkj&#xF8;p av utstyr fra Huawei.<br>Hva er begrunnelsen for at Norge her velger &#xE5; trosse r&#xE5;d fra v&#xE5;r viktigste allierte, og har man gjort grundige analyser av de sikkerhetsmessige og ikke minst de sikkerhetspolitiske implikasjonene som tilsier at det er i norske nasjonale interesse &#xE5; benytte Huawei?</p>
+
+                    
+                        <div class="article-content">
+                            <h3>
+                                Begrunnelse
+                            </h3>
+                            <p>Norge er s&#xE5;rbart. Vi har grense mot &#xE9;n av verdens sterkeste milit&#xE6;rmakter, vi har store ressurser, en strategisk viktig beliggenhet og et enormt land- og havareal i forhold til de milit&#xE6;re kapasiteter vi selv besitter. Samtidig er Norge et h&#xF8;yteknologisk land som er sv&#xE6;rt s&#xE5;rbart for utfall av det som for oss er helt essensielle tjenester som telefoni og Internett. F&#xE5; land er mer prisgitt at slike tjenester fungerer, og f&#xE5; land burde dermed v&#xE6;re mer opptatt av oss enn &#xE5; p&#xE5;se at sikkerheten til slike tjenester er optimal. Det reiser seg derfor et ikke uvesentlig behov for redegj&#xF8;relse og begrunnelse n&#xE5;r Norges regjering tilsynelatende velger &#xE5; legge mindre vekt p&#xE5; sikkerhet i utbygging og drift av slike tjenester enn flere av v&#xE5;re allierte. Huawei-saken f&#xF8;yer seg for &#xF8;vrig inn i en rekke sikkerhetspolitisk relaterte saker der regjeringen synes &#xE5; legge for lite vekt p&#xE5; nasjonens sikkerhet, for eksempel objektsikringssaken, FM-nedleggelsen, IKT-skandalen i Helse S&#xF8;r-&#xD8;st, NSMs avsl&#xF8;ring av Norges hemmelige baser, generell underfinansiering av Forsvaret og skandalene rundt fjernpolitireformen.<br><br>Huawei synes &#xE5; v&#xE6;re noe annet enn et kommersielt selskap som driver med telekommunikasjon. Det kommer stadig frem ny uheldig informasjon om Huawei som f&#xE5;r sikkerhetseksperter til &#xE5; reagere. Tidligere denne uken ble det kjent at en Huawei-topp arrestert i Canada. Meng Wanzhou er selskapets finansdirekt&#xF8;r, men ogs&#xE5; datter av firmaets grunnlegger og administrerende direkt&#xF8;r, Ren Zhengfei, som har bakgrunn fra den kinesiske h&#xE6;ren og tette forbindelser til kommunistpartiet. Hun skal visstnok v&#xE6;re arrestert p&#xE5; mistanke om brudd p&#xE5; sanksjonene mot Iran, et regime som ogs&#xE5; reiser sikkerhetspolitiske sp&#xF8;rsm&#xE5;l for Norge og v&#xE5;re allierte.</p>
+                        </div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-2 medium-2 columns">
+                    <div class="qa-image">
+                        <img id="ctl00_ctl00_MainRegion_MainRegion_AnswererImage" src="/Personimages/PersonImages_Small/TOWA_lite.jpg" alt="Tor Mikkel Wara (FrP)">
+                    </div>
+                </div>
+                <div class="large-10 medium-10 columns">
+                    <h3>
+                        Svar
+                    </h3>
+                    <p>Tor Mikkel Wara: Regjeringen er opptatt av sikkerhetssp&#xF8;rsm&#xE5;l knyttet til anskaffelser til kritisk infrastruktur og f&#xF8;lger problemstillingen tett. <br><br>Sikkerhetsloven &#xA7; 29a p&#xE5;legger virksomheter som eier eller r&#xE5;r over kritisk infrastruktur, &#xE5; foreta en risikovurdering ved anskaffelser til kritisk infrastruktur. Videre skal virksomheten varsle myndighetene dersom virksomheten &#xF8;nsker &#xE5; gjennomf&#xF8;re en anskaffelse som kan inneb&#xE6;re en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomf&#xF8;rt. Bestemmelsen videref&#xF8;res i den nye sikkerhetsloven, som forventes &#xE5; tre i kraft 1. januar 2019. <br><br>Gjennom Ekomsikkerhetsforum er det lagt til rette for informasjonsutveksling mellom myndighetene (Nasjonal kommunikasjonsmyndighet, Nasjonal sikkerhetsmyndighet, Politiets sikkerhetstjeneste og Etterretningstjenesten) og ekomtilbydere underlagt sikkerhetsloven. Informasjonsutvekslingen i forumet skal sikre en gjensidig og oppdatert forst&#xE5;else av trusselbildet p&#xE5; b&#xE5;de gradert og ugradert niv&#xE5;. Etter mitt syn bidrar en slik arena med &#xE5; gi ansvarlige virksomheter god informasjonstilgang for sine risikovurderinger og sitt sikkerhetsansvar.<br><br>Samferdselsdepartementet (SD) som har sektoransvar for elektronisk kommunikasjon har nylig varslet de sentrale ekomtilbyderne i Norge om tydeliggj&#xF8;ring av sikkerhetskrav til utstyrleverand&#xF8;rer i norske ekomnett. SD vurderer &#xE5; innf&#xF8;re nye tiltak som skal bidra til &#xE5; ytterligere redusere s&#xE5;rbarheten i norske ekomnett. Innen utgangen av januar 2019 vil SD invitere mobiltilbyderne til videre dialog om hvordan slike krav skal utformes. Det er avgj&#xF8;rende for myndighetene &#xE5; finne en god balanse mellom sikkerhetskrav og legge til rette for fortsatt investeringer i ekomnett og &#x2013;tjenester. SD har valgt &#xE5; varsle ekomtilbyderne om dette forest&#xE5;ende arbeidet for &#xE5; redusere risiko for at det tas beslutninger om store investeringer som kan g&#xE5; p&#xE5; tvers av et n&#xE6;rt fremtidig krav, og viser spesielt til anskaffelser av utstyr for 5G.</p>
+                </div>
+            </div>
+        </div>
+    </div>        
+</div>
+
+    
+
+                
+                
+                
+            

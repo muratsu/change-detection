@@ -1,0 +1,25 @@
+{
+  "name": "change-detection",
+  "version": "1.0.0",
+  "description": "quick and dirty nodejs website change detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muratsu/change-detection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muratsu/change-detection/issues"
+  },
+  "homepage": "https://github.com/muratsu/change-detection#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "difflib": "^0.2.4",
+    "js-md5": "^0.7.3",
+    "puppeteer": "^1.16.0"
+  }
+}
